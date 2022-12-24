@@ -1,0 +1,1 @@
+A simple but effective tool for counting number of words and characters of the pasted paragraph/sentence in the box. It calculates on the basis of javascript tool. It does have favicon to enhance its beauty on the title bar.
